@@ -5,7 +5,7 @@
 #
 #=========================================================================================
 
-base_url = "https://niklasarppe.github.io/"
+base_url = "https://niklasarppe.com/"
 title = "Niklas Arppe"
 description = "Academic website"
 default_language = "en"
