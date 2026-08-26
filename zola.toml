@@ -6,8 +6,8 @@
 #=========================================================================================
 
 base_url = "https://niklasarppe.github.io/"
-title = "xxxx"
-description = "xxxx xxxx xxxx"
+title = "Niklas Arppe"
+description = "Academic website"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
