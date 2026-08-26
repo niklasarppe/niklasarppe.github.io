@@ -1,0 +1,8 @@
+# Zola generated site
+/public/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
