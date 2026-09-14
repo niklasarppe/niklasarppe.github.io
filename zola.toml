@@ -47,7 +47,7 @@ sections = [
 blog_section_path = "/posts"
 
 back_link_text = "Back" # Text of the back button
-force_theme = false # false | "light" | "dark"
+force_theme = "light" # false | "light" | "dark"
 
 # og_image = "img/og.png" # The default image for social media sharing (Open Graph), a path in static folder or a full URL
 
