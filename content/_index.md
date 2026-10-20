@@ -10,9 +10,10 @@ bio = ""
 links = []
 recent = false
 footer = false
+math = true
 +++
 
-I'm a second-year master’s student in mathematics at the University of Bonn with a broad interest in arithmetic geometry. Lately I've been thinking about Shimura varieties, automorphic representations, and log-crystalline cohomology. 
+I'm a second-year master’s student in mathematics at the University of Bonn with a broad interest in arithmetic geometry. Lately I've been thinking about automorphic and Galois representations arising from Shimura varieties, as well as motivic incarnations of $p$-adic cohomology theories.
 
 Before my studies at the University of Bonn, I completed my bachelor's degree in mathematics at the University of Helsinki. For more details, consult my academic [CV](/cv.pdf).
 
